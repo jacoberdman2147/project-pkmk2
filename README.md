@@ -5,7 +5,7 @@ It's essentially a barebones command line which can be used to run a few functio
 
 To view the commands, type in "cmds". The way I dealt with commands and their arguments was simple but quick.
 
-#Command list:
+# Command list:
 * freeze, takes a string argument representing the process to freeze, does exactly what you would expect. It freezes whatever process you have targeted.
 
 * resume, takes a string argument representing the process to resume, resumes a frozen process
