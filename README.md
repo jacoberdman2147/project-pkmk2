@@ -36,7 +36,7 @@ To view the commands, type in "cmds". The way I dealt with commands and their ar
 
 * beepswap, no arguments, this is just annoying, don't run this.
 
-#Todo:
-Implement a better system for handling commands and their arguments
-Implement a standardized way to get info within the program about specific functions
-Find more interesting things to do
+# Todo:
+* Implement a better system for handling commands and their arguments
+* Implement a standardized way to get info within the program about specific functions
+* Find more interesting things to do
